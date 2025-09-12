@@ -25,6 +25,14 @@ h1 {
     text-align: center;
 }
 
+p {
+    color: antiquewhite;
+    height: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+
 form {
     gap: 10px;
     display: flex;
@@ -63,4 +71,10 @@ form button:hover {
     cursor: pointer;
     transform: scale(1.1);
     background-color: #b1e200;
+}
+
+.Botao-bonito{
+    background-color: cornflowerblue;
+    border-radius: 2%;
+    padding: 10px;
 }
